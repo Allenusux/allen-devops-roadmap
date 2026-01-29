@@ -1,3 +1,3 @@
 - prerequisites (local + AWS)
 - step-by-step commands
-- - troubleshooting section
+- troubleshooting section
